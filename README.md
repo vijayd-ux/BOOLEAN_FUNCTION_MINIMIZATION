@@ -49,7 +49,14 @@ endmodule
 
 **RTL**
 
+
+
+
+
 <img width="1437" height="735" alt="image" src="https://github.com/user-attachments/assets/0e644455-476e-4416-bbca-e5ead76b8547" />
+
+
+
 
 **Result:**
 
